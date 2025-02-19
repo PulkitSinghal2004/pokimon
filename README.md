@@ -2,8 +2,6 @@
 
 A modern, responsive React application that serves as a Pokédex, allowing users to browse and search through Pokemon using the PokeAPI.
 
-![Pokédex Screenshot](https://images.unsplash.com/photo-1613771404784-3a5686aa2be3?auto=format&fit=crop&q=80&w=1200)
-
 ## Features
 
 - **Pokemon Browsing**: View a grid of Pokemon with their official artwork
@@ -92,13 +90,4 @@ The application uses the [PokeAPI](https://pokeapi.co/) to fetch Pokemon data:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [PokeAPI](https://pokeapi.co/) for providing the Pokemon data
-- [Pokemon Official Artwork](https://github.com/PokeAPI/sprites) for the Pokemon images
-- [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
-- [Lucide React](https://lucide.dev/) for the beautiful icons
